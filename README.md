@@ -6,6 +6,3 @@
 ```shell
 ssh resume.wesong.top -p 5666
 ```
-
-你会看到这样的界面
-- ![resume](./asserts/preview.jpg)

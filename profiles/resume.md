@@ -1,98 +1,90 @@
-# **AI万**
-> *以下内容为AI杜撰，本人暂时懒得写*
+# **WeSong**
 
-高级CDN研发运维工程师  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile) | your.email@example.com | +86 123 4567 8901
+AI Tools Builder | Do The Right Thing 🚀
+
+[GitHub](https://github.com/onewesong) | [Blog](https://onewesong.github.io/) | onewesong@gmail.com | 📍 Hangzhou
 
 ---
 
 ## **简介**
 
-具有10年以上互联网行业经验的高级CDN研发运维工程师，精通内容分发网络（CDN）技术，具备丰富的大规模分布式系统设计、优化和运维经验。善于解决复杂技术问题，推动系统性能提升和成本优化，致力于为客户提供稳定、高效的网络服务。
+热衷于构建 AI 驱动的开发工具和基础设施，让开发工作流更快更高效。
 
----
-
-## **工作经验**
-
-### **高级CDN研发运维工程师 | 某知名互联网公司**
-*2016年6月 - 至今*
-
-- **架构设计**：主导和参与CDN架构设计与优化，提升系统稳定性和性能。
-- **性能优化**：通过深度分析和调优，显著提升内容分发效率，降低延迟。
-- **系统运维**：负责大规模分布式系统的日常运维和故障排除，保障系统99.99%的可用性。
-- **自动化部署**：设计和实现自动化运维工具，提高部署效率和质量。
-- **团队管理**：领导一支由10名工程师组成的团队，负责培训和指导，提升团队整体技术水平。
-
-### **CDN开发工程师 | 某知名科技公司**
-*2012年5月 - 2016年5月*
-
-- **CDN开发**：参与公司CDN产品的设计和开发，负责核心模块的编码和测试。
-- **技术研究**：研究最新的CDN技术和趋势，提出创新性解决方案，推动产品迭代。
-- **性能监控**：建立完善的监控系统，实时监控CDN性能，快速响应和解决异常情况。
-- **跨部门协作**：与产品、前端等团队紧密合作，确保项目顺利交付。
-
-### **网络工程师 | 某知名网络公司**
-*2008年3月 - 2012年4月*
-
-- **网络维护**：负责公司内部网络的日常维护和管理，保障网络的稳定运行。
-- **故障处理**：快速响应和解决网络故障，提升系统可用性。
-- **技术支持**：为公司其他部门提供技术支持和培训，解答网络相关问题。
-
----
-
-## **教育背景**
-
-### **计算机科学与技术学士 | 某知名大学**
-*2004年9月 - 2008年6月*
-
-- **主要课程**：数据结构、计算机网络、操作系统、数据库系统、分布式系统等。
+专注于 LLM Gateway、开发者工具、自动化运维等领域，拥有丰富的后端开发和系统架构经验。活跃的开源贡献者，持续探索 AI 与软件工程的结合点。
 
 ---
 
 ## **技能**
 
-- **编程语言**：Python、Go、Java、C++
-- **技术栈**：Nginx、Varnish、HAProxy、Redis、Kafka
-- **云服务**：AWS、Azure、GCP
-- **运维工具**：Ansible、Puppet、Chef、Terraform
-- **监控工具**：Prometheus、Grafana、ELK Stack
+- **编程语言**：Go、Python、TypeScript、Lua、Shell
+- **后端技术**：Gin、OpenResty/Nginx、Docker、Redis
+- **前端技术**：Vue3、React、Vite、Next.js
+- **AI/LLM**：OpenAI API、Claude API、RAG、Agent
+- **运维工具**：Docker Compose、GitHub Actions、CI/CD
 
 ---
 
-## **证书**
+## **开源项目**
 
-- **AWS认证解决方案架构师**
-- **RHCE（Red Hat Certified Engineer）**
-- **CCNP（Cisco Certified Network Professional）**
+### **LLM 基础设施**
+
+**[open-next-router](https://github.com/r9s-ai/open-next-router)** - *Go*
+> 轻量级 OpenAI 兼容 API 网关，支持多上游 Provider 路由
+
+**[one-api-nginx](https://github.com/onewesong/one-api-nginx)** - *Lua/OpenResty*
+> 基于 OpenResty 的极简 LLM 网关，支持模型路由和多 Provider
+
+**[code-switch](https://github.com/onewesong/code-switch)** - *Shell*
+> Claude Code 模型/服务商快速切换神器
+
+### **开发者工具**
+
+**[codex-viz](https://github.com/onewesong/codex-viz)** - *TypeScript*
+> Codex CLI 本地数据分析仪表盘，支持趋势、Token 用量、词云等
+
+**[mock-server](https://github.com/onewesong/mock-server)** - *Go/Vue3*
+> 带可视化管理台的 Mock Server (Go/Gin + Vue3/Vite)
+
+**[open-playcode](https://github.com/onewesong/open-playcode)** - *TypeScript*
+> 轻量在线代码编辑器，支持 HTML/CSS/JS 和 React/JSX 实时预览
+
+**[shorturl](https://github.com/onewesong/shorturl)** - *Go*
+> 极简自用短链接服务，支持 Docker 部署
+
+### **AI 应用**
+
+**[ai-wiki](https://github.com/NotebookAI/ai-wiki)** - *JavaScript*
+> AI/LLM/RAG/Agent 专业名词百科，用不吓人的语言帮你看懂 AI 世界
+
+**[openries](https://github.com/onewesong/openries)** - *JavaScript*
+> Chrome 扩展，基于大语言模型的智能术语混合翻译
+
+### **CLI 工具**
+
+**[goforeach](https://github.com/onewesong/goforeach)** - *Go*
+> 使用 goroutine 并发执行命令的命令行工具
+
+**[better-git-of-theseus](https://github.com/onewesong/better-git-of-theseus)** - *Python*
+> 分析 Git 仓库随时间的增长情况
 
 ---
 
-## **项目经验**
+## **关注领域**
 
-### **全球内容分发网络优化项目**
-*2018年 - 2020年*
-
-- **项目描述**：负责公司全球CDN网络的优化工作，提升内容分发速度和稳定性。
-- **主要贡献**：通过改进缓存策略和优化路由算法，使平均延迟降低了30%，带宽成本降低了20%。
-
-### **自动化运维平台开发**
-*2017年 - 2018年*
-
-- **项目描述**：开发一套自动化运维平台，实现CDN节点的自动化部署和管理。
-- **主要贡献**：提高了运维效率，减少了人为错误，系统可用性提升至99.99%。
+- 🤖 **AI Native Development** - 探索 AI 如何改变软件开发方式
+- 🔧 **Developer Experience** - 打造更好用的开发者工具
+- 🚀 **LLM Infrastructure** - 构建 LLM 应用的基础设施
+- 📖 **知识分享** - 通过开源和写作分享技术经验
 
 ---
 
-## **兴趣爱好**
+## **联系方式**
 
-- **技术研究**：持续关注和学习最新的技术趋势，提升自身技能。
-- **开源贡献**：积极参与开源社区，贡献代码和文档，分享技术经验。
-- **运动健身**：热爱跑步和健身，保持良好的身体状态。
+- **GitHub**: [github.com/onewesong](https://github.com/onewesong)
+- **Blog**: [onewesong.github.io](https://onewesong.github.io/)
+- **Email**: onewesong@gmail.com
+- **微信公众号**: 2AGI
 
 ---
 
-**张三**
-
-高级CDN研发运维工程师
-
-your.email@example.com | +86 123 4567 8901
+*Building AI-powered developer tools. Do The Right Thing.*
